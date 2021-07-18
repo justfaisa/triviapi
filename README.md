@@ -56,7 +56,7 @@ bot.on("message", async (message) => {
 bot.login("very_secret_token")
 ```
 ## Api Calls
-For now its only have 1 api calls and 1 question xD :
+For now its only have 1 api calls :
  - `let trivia = trivia.anime()`
 
 ## Credits
