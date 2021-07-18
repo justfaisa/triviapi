@@ -6,6 +6,105 @@
     "options": ["Sailor Mercury and Sailor Mars , Sailor Uranus and Sailor Neptune , Sailor Jupiter and Sailor Venus , Sailor Pluto and Neptune"],
     "answer": "Sailor Uranus and Sailor Neptune",
     "difficulity": "medium",
-    "correct_options": 2
+    "correct_options": "2"
+  },
+  {
+    "question": "Usagi Tsukino is better known as?",
+    "category": "Anime",
+    "anime": "Sailor Moon",
+    "options": ["Sailor Jupiter , Sailor Mars , Sailor Neptune , Sailor Moon"],
+    "answer": "Sailor Moon",
+    "difficulity": "Easy",
+    "correct_options": "4"
+  },
+  {
+    "question": "Which superhero team inspired Sailor Moon?",
+    "category": "Anime",
+    "anime": "Sailor Moon",
+    "options": ["Power Rangers , Avengers , Naruto , DC"],
+    "answer": "Power Rangers",
+    "difficulity": "Hard",
+    "correct_options": "1"
+  },
+  {
+    "question": "Which of these species resembles birds?",
+    "category": "Anime",
+    "anime": "Outlaw Star",
+    "options": ["Melfina , Clair , Silgrans , Misfits"],
+    "answer": "Silgrans",
+    "difficulity": "Medium",
+    "correct_options": "3"
+  },
+  {
+    "question": "Which assassin lead the Anten Seven?",
+    "category": "Anime",
+    "anime": "Outlaw Star",
+    "options": ["Hitoriga , Jukai , Iraga , Leilong"],
+    "answer": "Hitoriga",
+    "difficulity": "Hard",
+    "correct_options": "1"
+  },
+  {
+    "question": "'Tao Magic' is the short way to say what?",
+    "category": "Anime",
+    "anime": "Outlaw Star",
+    "options": ["Dragonite , Senjutsu , Seihou , Hashi"],
+    "answer": "Senjutsu",
+    "difficulity": "Easy",
+    "correct_options": "2"
+  },
+  {
+    "question": "What type of guitar did Ryusuke lend to Koyuki?",
+    "category": "Anime",
+    "anime": "Beck: Mongolian Chop Squad",
+    "options": ["SG , ibanez , Fender Stratocaster , Gibson Les Paul"],
+    "answer": "Gibson Les Paul",
+    "difficulity": "Easy",
+    "correct_options": "4"
+  },
+  {
+    "question": "Ryusuke owns a dog, what is his name?",
+    "category": "Anime",
+    "anime": "Beck: Mongolian Chop Squad",
+    "options": ["Beck , Doggo , Kishu , Akita"],
+    "answer": "Beck",
+    "difficulity": "Easy",
+    "correct_options": "1"
+  },
+  {
+    "question": "What postion is Saku in Beck?",
+    "category": "Anime",
+    "anime": "Beck: Mongolian Chop Squad",
+    "options": ["Singer , Guitarist , Drummer , Bassist"],
+    "answer": "Drummer",
+    "difficulity": "Easy",
+    "correct_options": "3"
+  },
+  {
+    "question": "How old is Mayuri Shiina?",
+    "category": "Anime",
+    "anime": "Steins;Gate",
+    "options": ["17 Years , 16 Years , 19 Years , 23 Years"],
+    "answer": "16 Years",
+    "difficulity": "Medium",
+    "correct_options": "2"
+  },
+  {
+    "question": "What name does Okabe call Kurisu?",
+    "category": "Anime",
+    "anime": "Steins;Gate",
+    "options": ["Christina , Kulisu , Makise , Kurisu-san"],
+    "answer": "Christina",
+    "difficulity": "Easy",
+    "correct_options": "1"
+  },
+  {
+    "question": "Steins;Gate is a collaboration work between 5pb. and who?",
+    "category": "Anime",
+    "anime": "Steins;Gate",
+    "options": ["Professor Community , Future Gadget Laboratory , 6pb , Nitro+"],
+    "answer": "Nitro+",
+    "difficulity": "Hard",
+    "correct_options": "4"
   }
 ]
