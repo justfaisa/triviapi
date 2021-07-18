@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Triviapi</h1>
+  <h1>triviapi</h1>
   <p>
     <a href="https://www.npmjs.com/package/triviapi"><img src="https://img.shields.io/npm/v/triviapi?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/triviapi"><img src="https://img.shields.io/npm/dt/triviapi?maxAge=3600" alt="NPM downloads" /></a>
