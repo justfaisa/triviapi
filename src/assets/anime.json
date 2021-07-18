@@ -7,14 +7,5 @@
     "answer": "Sailor Uranus and Sailor Neptune",
     "difficulity": "medium",
     "correct_options": 2
-  },
-  {
-    "question": "Usagi Tsukino is better known as?", 
-    "category": "Anime",
-    "anime": "test",
-    "options": ["test , test , test , test"],
-    "answer": "test",
-    "difficulity": "easy",
-    "correct_options": 2
   }
 ]
