@@ -1,9 +1,10 @@
 {
   "name": "triviapi",
-  "version": "1.1.0",
+  "version": "1.1.7",
   "main": "src/index.js",
   "license": "MIT",
   "description": "Just a simple trivia api",
+  "repository": "https://github.com/justfaisa/triviapi",
   "keywords": [
     "faisa",
     "npm",
