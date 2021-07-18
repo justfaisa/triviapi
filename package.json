@@ -1,0 +1,17 @@
+{
+  "name": "triviapi",
+  "version": "1.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "description": "Just a simple trivia api",
+  "keywords": [
+    "faisa",
+    "npm",
+    "package",
+    "api",
+    "trivia"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
