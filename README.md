@@ -42,7 +42,7 @@ bot.on("message", async (message) => {
              message.channel.send(Embed)
             try{
                 let msgs = await message.channel.awaitMessages(u2=>u2.author.id===message.author.id,{ time: 15000, max: 1, errors: ["time"] })
-                 if(parseInt(msgs.first().content)==trivia.correct_option){
+                 if(parseInt(msgs.first().content)==trivia.correct_options){
                      return message.channel.send('Bingo! You got it correct!')
                  }else{
                     return message.channel.send(`Oh No! Incorrect Answer. Write Answer Was ` + '`' +`${trivia.answer}`+ '`')
