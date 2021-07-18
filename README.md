@@ -61,3 +61,5 @@ For now its only have 1 endpoints and 1 question xD :
 
 ## Credits
 Made with ❤ by `Faisa#5461`
+
+Yall can contributed on this repos
