@@ -106,5 +106,86 @@
     "answer": "Nitro+",
     "difficulity": "Hard",
     "correct_options": "4"
+  },
+  {
+    "question": "What color of macaron did Kagari give to herself?",
+    "category": "Anime",
+    "anime": "Black Rock Shooter",
+    "options": ["Red , Green , Yellow , Pink"],
+    "answer": "Yellow",
+    "difficulity": "Medium",
+    "correct_options": "3"
+  },
+  {
+    "question": "When did the first episode of the anime air?",
+    "category": "Anime",
+    "anime": "Black Rock Shooter",
+    "options": ["March 2012 , February 2012 , January 2013 , August 2012"],
+    "answer": "February 2012",
+    "difficulity": "Hard",
+    "correct_options": "2"
+  },
+  {
+    "question": "What sport club did Yomi join?",
+    "category": "Anime",
+    "anime": "Black Rock Shooter",
+    "options": ["Football , Basketball , Volleyball , Baseball"],
+    "answer": "Volleyball",
+    "difficulity": "Easy",
+    "correct_options": "3"
+  },
+  {
+    "question": "Who is the Main protaganist?",
+    "category": "Anime",
+    "anime": "Chrno Crusade",
+    "options": "Chrono , Satella Harvenheit , Viede , Rosette Christoper",
+    "answer": "Rosette Christoper",
+    "difficulity": "Easy",
+    "correct_options": "4"
+  },
+  {
+    "question": "How old was Rosette when she met Chrono?",
+    "category": "Anime",
+    "anime": "Chrno Crusade",
+    "options": ["12 years old , 10 years old , 14 years old , 16 years old"],
+    "answer": "12 years old",
+    "difficulity": "Medium",
+    "correct_options": "1"
+  },
+  {
+    "question": "Who is Chrono's brother?",
+    "category": "Anime",
+    "amime": "Chrno Crusade",
+    "options": ["Gurio , Sister Kate Valentine , Aion , Shader"],
+    "answer": "Aion",
+    "difficulity": "Easy",
+    "correct_options": "3"
+  },
+  {
+    "question": "What is Layer 2?",
+    "category": "Anime",
+    "anime": "Serial Experiments Lain",
+    "options": ["Religion , Love , Girls , Boys"],
+    "answer": "Girls",
+    "difficulity": "Hard",
+    "correct_options": "3"
+  },
+  {
+    "question": "Who is Lain's Sister?",
+    "category": "Anime",
+    "anime": "Serial Experiments Lain",
+    "options": ["Mizuki Arisu , Yasuo Iwakura , Taro , Chisa Yomoda"],
+    "answer": "Mizuki Arisu",
+    "difficulity": "Easy",
+    "correct_options": "1"
+  },
+  {
+    "question": "What is Layer 7?",
+    "category": "Anime",
+    "anime": "serial Experiments Lain",
+    "options": ["Kids , Distortion , Ego , Society"],
+    "answer": "Society",
+    "difficulity": "Hard",
+    "correct_options": "4"
   }
 ]
