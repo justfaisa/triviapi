@@ -19,7 +19,6 @@ npm i triviapi
 ```js
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const discord_akairo_1 = require("discord-akairo");
 const Discord = require('discord.js')
 const bot = new Discord.Client()
 const trivia = require("triviapi")
