@@ -59,6 +59,6 @@ For now its only have 1 api calls :
  - `let trivia = trivia.anime()`
 
 ## Credits
-Made with ❤ by `Faisa#5461`
+Made with ❤ by `Faisa#0103`
 
 Yall can contributed on this repos
